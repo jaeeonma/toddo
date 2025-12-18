@@ -107,20 +107,19 @@ TODO/
 <img width="841" height="636" alt="Image" src="https://github.com/user-attachments/assets/11dedc1e-c962-4f7e-808b-401c64627379" />
 
 ### 회원가입 페이지
-
-![회원가입 페이지](이미지_경로)
+<img width="824" height="705" alt="Image" src="https://github.com/user-attachments/assets/a69514e8-6a1f-4359-a2ae-03929c9aa144" />
 
 ### 메인 페이지
 
-![메인 페이지](이미지_경로)
+<img width="880" height="725" alt="Image" src="https://github.com/user-attachments/assets/bc3b7e08-782b-4adb-af7f-40a1acca3d47" />
 
 **내 정보 보기**
 
-![내 정보 보기](이미지_경로)
+<img width="761" height="836" alt="Image" src="https://github.com/user-attachments/assets/66d3cbde-8fbf-4ee1-a49e-662a6f8cd302" />
 
 **Todo 작성**
 
-![Todo 작성](이미지_경로)
+<img width="776" height="874" alt="Image" src="https://github.com/user-attachments/assets/e0cf3fe1-632f-45d4-9e3d-ad54cf3688e2" />
 
 ---
 
