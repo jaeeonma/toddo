@@ -1,6 +1,6 @@
 const express = require("express");
 const router = express.Router();
-const todosController = require("../../controller/todosController");
+const todosController = require("../../controller/todos");
 const jwt = require("jsonwebtoken");
 
 // 토큰 검증 미들웨어
