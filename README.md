@@ -8,6 +8,7 @@
 
 - [기술 스택](#기술-스택)
 - [폴더 구조](#폴더-구조)
+- [설치 및 실행](#설치-및-실행)
 - [기능 명세](#기능-명세)
 - [API 명세](#api-명세)
 - [페이지 소개](#페이지-소개)
@@ -66,6 +67,36 @@ TODO/
 
 ---
 
+## 설치 및 실행
+
+**1. 의존성 설치**
+
+```bash
+# 프론트엔드 의존성 설치
+cd react1
+npm install
+
+# 백엔드 의존성 설치
+cd ../server
+npm install
+```
+
+**2. 환경 변수 설정**
+
+`server/.env` 파일을 생성하고 데이터베이스 연결 정보를 입력합니다.
+
+**3. 프로젝트 실행**
+
+```bash
+# 프론트엔드 실행 (react1 폴더에서)
+npm start
+
+# 백엔드 실행 (server 폴더에서)
+node server.js
+```
+
+---
+
 ## 기능 명세
 
 **사용자 기능**
@@ -107,6 +138,7 @@ TODO/
 <img width="841" height="636" alt="Image" src="https://github.com/user-attachments/assets/11dedc1e-c962-4f7e-808b-401c64627379" />
 
 ### 회원가입 페이지
+
 <img width="824" height="705" alt="Image" src="https://github.com/user-attachments/assets/a69514e8-6a1f-4359-a2ae-03929c9aa144" />
 
 ### 메인 페이지
