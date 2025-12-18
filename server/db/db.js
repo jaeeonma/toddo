@@ -1,11 +1,11 @@
 const { Pool } = require("pg");
 
 const pool = new Pool({
-  user: "postgres", // 이름
-  host: "localhost", // 주소
-  database: "postgres", // db 이름
-  password: "1234", // 비번
-  port: 5432, //포트 번호
+  user: process.env.DB_USER, 
+  host: process.env.DB_HOST ,
+  database: process.env.DB_DATABASE ,
+  password: process.env.DB_PASSWORD ,
+  port: process.env.DB_PORT
 });
 
 module.exports = pool;
