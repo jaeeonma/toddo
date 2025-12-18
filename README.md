@@ -147,7 +147,7 @@ node server.js
 
 **내 정보 보기**
 
-<img width="761" height="836" alt="Image" src="https://github.com/user-attachments/assets/66d3cbde-8fbf-4ee1-a49e-662a6f8cd302" />
+<img width="847" height="859" alt="Image" src="https://github.com/user-attachments/assets/d2357ad5-c129-4958-921f-f2b313f10d83" />
 
 **Todo 작성**
 
