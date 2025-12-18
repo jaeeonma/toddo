@@ -104,7 +104,7 @@ TODO/
 
 ### 로그인 페이지
 
-![로그인 페이지](이미지_경로)
+<img width="841" height="636" alt="Image" src="https://github.com/user-attachments/assets/11dedc1e-c962-4f7e-808b-401c64627379" />
 
 ### 회원가입 페이지
 
