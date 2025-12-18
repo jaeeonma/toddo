@@ -9,7 +9,7 @@ exports.register = async (req, res) => {
 
     if (!email || !password || !name)
       return res.status(400).json({ message: "모든 항목을 입력해주세요." });
-    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email))
+    if (!/^[a-zA-Z0-9](?:[a-zA-Z0-9._%+-]{0,62}[a-zA-Z0-9])?@(?:[a-zA-Z0-9-]+\.)+[a-zA-Z]{2,}$/.test(email))
       return res.status(400).json({ message: "올바른 이메일 형식이 아닙니다." });
     if (password.length < 6)
       return res.status(400).json({ message: "비밀번호는 최소 6자 이상이어야 합니다." });
